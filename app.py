@@ -13,5 +13,5 @@ class Calculator:
             raise ValueError("Cannot divide by zero.")
         return a / b
 
-    def message():
+    def message(self):
         print("Код без покрытия")
