@@ -15,3 +15,6 @@ class Calculator:
 
     def message(self):
         print("Код без покрытия")
+
+    def hello_world_message(self):
+        return "Hello World"
